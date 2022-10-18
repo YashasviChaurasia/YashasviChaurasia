@@ -1,5 +1,6 @@
-### Hi there 👋
 
+<img align="center" src="https://rook.io/images/index-what-is-rook.svg" alt="drawing" width="1000"/>
+#YashasviChaurasia [octops]
 <!--
 **YashasviChaurasia/YashasviChaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
