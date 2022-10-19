@@ -4,7 +4,7 @@
 <h1>Yashasvi Chaurasia</h1> 
 </div>
 
-# `Octops` <img align="center" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="drawing" width="100"/> [![trophy](https://github-profile-trophy.vercel.app/?username=YashasviChaurasia&align=center&theme=gruvbox&title=MultipleLang,Commit,Issues,Repositories,PullRequest&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
+# `Octops` <img align="center" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="drawing" width="70"/> [![trophy](https://github-profile-trophy.vercel.app/?username=YashasviChaurasia&align=center&theme=gruvbox&title=MultipleLang,Commit,Issues,Repositories,PullRequest&margin-w=20&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
