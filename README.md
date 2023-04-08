@@ -14,5 +14,3 @@
     
 <img align="center" src="https://go.dev/images/gophers/pilot-bust.svg" alt="drawing" width="80"/>
 
-
-
